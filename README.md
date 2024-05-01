@@ -1,3 +1,4 @@
+![logo](https://github.com/Praneeth-kb/Praneeth-kb/blob/main/Gitbanner.png)
 <h1 align="center">Hi 👋, I'm Praneeth K B</h1>
 <h3 align="center">A passionate Software Engineering Student from India</h3>
 
