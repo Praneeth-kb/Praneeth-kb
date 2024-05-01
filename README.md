@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praneeth K B</h1>
 <h3 align="center">A passionate Software Engineering Student from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faryandahiya.vercel.app%2F&psig=AOvVaw2QjIEsC4Pdj3HWVNG2K9as&ust=1714589679942000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCtmMjO6oUDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faryandahiya.vercel.app%2F&psig=AOvVaw2QjIEsC4Pdj3HWVNG2K9as&ust=1714589679942000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCtmMjO6oUDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeth-kb&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth-kb" /> </p>
 
