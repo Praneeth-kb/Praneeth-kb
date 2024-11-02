@@ -1,21 +1,59 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="200px"/></a>
-<h1 align="center">Hi 👋, I'm Praneeth K B</h1>
-<h3 align="center">A passionate Software Engineering Student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faryandahiya.vercel.app%2F&psig=AOvVaw2QjIEsC4Pdj3HWVNG2K9as&ust=1714589679942000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCtmMjO6oUDFQAAAAAdAAAAABAJ">
+<h1 align = "center">Hi :wave: , I'm Praneeth K B</h1>
+<h3 align = "center"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeth-kb&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth-kb" /> </p>
+## 🙋‍♂️ About Me 
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me: praneethkb0@gmail.com
+
+## 💻 Languages 
 <p align="left">
-<a href="https://linkedin.com/in/praneeth k b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praneeth k b" height="30" width="40" /></a>
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://www.learn-c.org/" target="_blank"> <img src = "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src = "https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src = "https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://html.com/" target="_blank"> <img src = "https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src = "https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a> 
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praneeth-kb&show_icons=true&locale=en&layout=compact" alt="praneeth-kb" /></p>
+## 📊 My Github Stats and Streaks
+<p align ="center">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=prajwal-kb&theme=gruvbox_duo&hide_border=false&fire=2700DD&ring=2095DD&dates=CED1DD&currStreakLabel=3885DD&currStreakNum=CED1DD&sideNums=CED1DD&sideLabels=3885DD" alt = "Prajwal's git streak"/>
+</p>
+  
+<p align = "left">
+<img src = "https://github-readme-stats.vercel.app/api?username=prajwal-kb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=3885DD&text_color=CED1DD&icon_color=2095DD" alt = "Prajwal's git stats"/>
+</p>
+<p align = "right">
+<img alt="Prajwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kb&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=Movie-club,learning-python" />
+ </p>
+   
+<p align = "center">
+  <img alt="Prajwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajwal-kb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+   </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneeth-kb&show_icons=true&locale=en" alt="praneeth-kb" /></p>
+## Connect with me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth-kb&" alt="praneeth-kb" /></p>
+<p align="left">
+<a href = "https://www.linkedin.com/in/prajwal-kb-12485a228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a herf = "kbprajwal8@gmail.com"><img src = "https://img.icons8.com/fluent/48/000000/gmail.png"></a>
+</p>
+
+ 
+<!--
+**prajwal-kb/prajwal-kb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
+-->
