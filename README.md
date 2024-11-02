@@ -22,7 +22,7 @@
 
 ## 📊 My Github Stats and Streaks
 <p align ="center">
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=prajwal-kb&theme=gruvbox_duo&hide_border=false&fire=2700DD&ring=2095DD&dates=CED1DD&currStreakLabel=3885DD&currStreakNum=CED1DD&sideNums=CED1DD&sideLabels=3885DD" alt = "Prajwal's git streak"/>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=prajwal-kb&theme=gruvbox_duo&hide_border=false&fire=2700DD&ring=2095DD&dates=CED1DD&currStreakLabel=3885DD&currStreakNum=CED1DD&sideNums=CED1DD&sideLabels=3885DD" alt = "Praneeth's git streak"/>
 </p>
   
 <p align = "left">
