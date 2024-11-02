@@ -35,15 +35,13 @@
 <img alt="Prajwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kb&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=Movie-club,learning-python" />
  </p>
    
-<p align = "center">
-  <img alt="Prajwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajwal-kb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-   </p>
+
 
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/prajwal-kb-12485a228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a herf = "kbprajwal8@gmail.com"><img src = "https://img.icons8.com/fluent/48/000000/gmail.png"></a>
+<a href = "www.linkedin.com/in/praneeth-k-b-516891291"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a herf = "praneethkb0@gmail.com"><img src = "https://img.icons8.com/fluent/48/000000/gmail.png"></a>
 </p>
 
  
