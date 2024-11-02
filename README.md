@@ -26,10 +26,10 @@
 </p>
   
 <p align = "left">
-<img src = "https://github-readme-stats.vercel.app/api?username=prajwal-kb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=3885DD&text_color=CED1DD&icon_color=2095DD" alt = "Prajwal's git stats"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Praneeth-kb&show_icons=true&hide_border=false&bg_color=0D1117&title_color=3885DD&text_color=CED1DD&icon_color=2095DD" alt = "Praneeth's git stats"/>
 </p>
 <p align = "right">
-<img alt="Prajwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-kb&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=Movie-club,learning-python" />
+<img alt="Praneeth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneeth-kb&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117&exclude_repo=Movie-club,learning-python" />
  </p>
    
 
